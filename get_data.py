@@ -1,3 +1,4 @@
+#%% 
 import urllib.request
 import os
 
@@ -27,3 +28,4 @@ def download_data(force=False):
     return data_dir
 
 download_data()
+# %%
